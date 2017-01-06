@@ -7,6 +7,6 @@ CMAQ is an active open-source development project of the U.S. EPA Atmospheric Sc
 
 CMAQ combines current knowledge in atmospheric science and air quality modeling with multi-processor computing techniques in an open-source framework to deliver fast, technically sound estimates of ozone, particulates, toxics, and acid deposition.
 
-Release Notes: https://www.airqualitymodeling.org/index.php/CMAQ_version_5.0_(February_2012_release)_Technical_Documentation
+[CMAQ v5.0 Release Notes](https://www.airqualitymodeling.org/index.php/CMAQ_version_5.0_(February_2012_release)_Technical_Documentation)
 
 Full documentation available at http://www.cmaq-model.org
