@@ -9,5 +9,7 @@ CMAQ combines current knowledge in atmospheric science and air quality modeling 
 
 CMAQ version 5.0.2 is an incremental update to CMAQ version 5.0.1 that includes several changes to the science algorithms in the base model and new diagnostic/scientific modules. The instrumented versions of the model provide CMAQ users with diagnostic tools for help in interpreting model performance and results. Community versions of the model include new science algorithms contributed by development groups outside of EPA.
 
+[CMAQv5.0.2 Release Notes](https://www.airqualitymodeling.org/index.php/CMAQ_version_5.0.2_(April_2014_release)_Technical_Documentation)
+
 Full documentation available at http://www.cmaq-model.org
 
